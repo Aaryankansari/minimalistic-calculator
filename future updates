@@ -1,0 +1,24 @@
+# Future Ideas for Minimalistic Calculator
+
+This file tracks potential enhancements and new features to make the calculator more powerful and user-friendly.
+
+## 🔮 Planned Features
+- Add scientific functions:
+  - Square root (√)
+  - Exponentiation (^)
+  - Trigonometric functions (sin, cos, tan)
+- Dark/light theme toggle
+- Keyboard input support
+- Memory functions (M+, M-, MR, MC)
+- Percentage (%) button
+- History log of calculations
+
+## 💡 Nice-to-Have Enhancements
+- Mobile-friendly responsive layout
+- Animated button clicks
+- Customizable color themes
+- Accessibility improvements (screen reader support)
+
+## 🛠️ Notes
+- Each feature can be added incrementally.
+- Keep the design minimalistic while expanding functionality.
